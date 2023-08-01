@@ -6,6 +6,8 @@
 ## 使用方式
 
 ``` javascript
+const PromptParse = require("prompt-parse-js");
+
 const promptstr = `geisha woman in ink on white matte vinyl wall sticker， in the style of anton mauve、 flowing fabrics, traditional costumes  --s    750 --v 5.2`;
 
 const data = new PromptParse(promptstr);
