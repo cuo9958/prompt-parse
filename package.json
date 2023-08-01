@@ -1,0 +1,25 @@
+{
+  "name": "prompt-parse-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node ./demo.js",
+    "build": "tsc"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuo9958/prompt-parse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuo9958/prompt-parse/issues"
+  },
+  "homepage": "https://github.com/cuo9958/prompt-parse#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
