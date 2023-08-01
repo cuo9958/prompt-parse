@@ -1,6 +1,6 @@
 {
   "name": "prompt-parse-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/cuo9958/prompt-parse/issues"
   },
   "homepage": "https://github.com/cuo9958/prompt-parse#readme",
-  "dependencies": {
+  "optionalDependencies": {
     "typescript": "^5.1.6"
   }
 }
